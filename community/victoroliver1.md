@@ -1,6 +1,6 @@
 # João Victor Oliveira
 Olá! 👋🏻
-<br>Eu sou a João Victor, sou natural de Recife-PE e atualmente estou cursando o 3º período de ADS (UNINASSAU). Tenho mais de 9 meses de estudo e estou em busca da minha primeira oportunidade de emprego na área.
+<br>Eu sou a João Victor, natural de Recife-PE e atualmente estou cursando o 3º período de ADS (UNINASSAU). Tenho mais de 9 meses de estudo e estou em busca da minha primeira oportunidade de emprego na área.
 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-1c1c1c?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/victoroliver1)
